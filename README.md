@@ -1,13 +1,14 @@
 # vuex_list
+入门vuex的示例代码
 
 ## Project setup
 ```
-npm install
+安装 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+然后启动服务 npm run serve
 ```
 
 ### Compiles and minifies for production
